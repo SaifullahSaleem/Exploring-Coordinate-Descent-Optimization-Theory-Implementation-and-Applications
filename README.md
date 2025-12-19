@@ -72,7 +72,3 @@ python DS_221_CEP_code.ipynb
 * Johnson, R., & Zhang, T. (2021). *Accelerating stochastic coordinate descent for linear SVM.* JMLR.
 * Liu, R., et al. (2021). *Stochastic coordinate descent for deep learning.* arXiv.
 * Wang, M., & Yin, W. (2021). *Non-asymptotic convergence rate of coordinate descent algorithms.* JMLR.
-
----
-
-Would you like me to help you format the **Table of Contents** with clickable links for this README?

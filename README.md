@@ -50,7 +50,8 @@ To run the implementations included in this repository:
 
 1. **Clone the repository:**
 ```bash
-git clone https://github.com/SaifullahSaleem/GIKI-Chatbot.git
+git clone https://github.com/SaifullahSaleem/Exploring-Coordinate-Descent-Optimization-Theory-Implementation-and-Applications
+
 
 ```
 
